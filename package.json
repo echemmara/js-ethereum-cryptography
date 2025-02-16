@@ -281,7 +281,7 @@
     "browser-tests:test-rollup": "karma start --single-run --browsers ChromeHeadless test/karma.rollup.conf.js"
   },
   "devDependencies": {
-    "@types/estree": "1.0.0",
+    "@types/estree": "1.0.6",
     "@types/mocha": "10.0.7",
     "@types/node": "18.15.11",
     "@typescript-eslint/eslint-plugin": "5.62.0",
