@@ -283,7 +283,7 @@
   "devDependencies": {
     "@types/estree": "1.0.6",
     "@types/mocha": "10.0.7",
-    "@types/node": "18.15.11",
+    "@types/node": "18.19.74",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "5.30.6",
     "eslint": "8.57.1",
